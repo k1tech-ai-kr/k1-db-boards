@@ -1,0 +1,52 @@
+{
+  "version": "1.0.0",
+  "packs": [
+    {
+      "game": "chess",
+      "count": 4999,
+      "path": "data-packs/boards-1.0.0/chess.json",
+      "bytes": 3584158,
+      "sha256": "83ead6d64875f7b3f89763e5207a9b725653d91b8f5c90c2a05be43df9ee536e"
+    },
+    {
+      "game": "go",
+      "count": 495,
+      "path": "data-packs/boards-1.0.0/go.json",
+      "bytes": 635782,
+      "sha256": "abad7c24a02b084a3fa648a643b365a24367a25ebbb8f74b4eeae6e15a8cdc7a"
+    },
+    {
+      "game": "janggi",
+      "count": 159,
+      "path": "data-packs/boards-1.0.0/janggi.json",
+      "bytes": 107398,
+      "sha256": "cb05ba0a977f3badb0f83e60ebee2185bc0d71a000bfda2b371be8404ce0dd12"
+    }
+  ],
+  "rejected": [
+    {
+      "id": "lichess-puzzle-05EX9",
+      "reason": "duplicate"
+    },
+    {
+      "id": "jgdb-79deb7d845fcfdca8de2bd72",
+      "reason": "duplicate"
+    },
+    {
+      "id": "jgdb-1579b02f85c1abed11ea3765",
+      "reason": "duplicate"
+    },
+    {
+      "id": "jgdb-a1f534a8c438d69bacf7a7cf",
+      "reason": "duplicate"
+    },
+    {
+      "id": "jgdb-cd148811658eb73bfe0db9e6",
+      "reason": "duplicate"
+    },
+    {
+      "id": "jgdb-d2868cd53c56e475b016b644",
+      "reason": "duplicate"
+    }
+  ]
+}
